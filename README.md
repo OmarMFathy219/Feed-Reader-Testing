@@ -1,13 +1,5 @@
 # Feed Reader
 
-An asynchronously loaded list of links to popular coding articles.
+a web-based application that reads RSS feeds that another developer has worked on, and write tests against it using Jasmine's testing syntax.
 
-## Installation/Getting Started
-
-* Clone this project: https://github.com/ahmd1661998/Feed-Reader-Testing
-* Open the index.html file from a code editor
-* Check the feeds and test suites
-
-## Built With
-
-* [Jasmine](https://jasmine.github.io/) - The testing framework used.
+The required tests for the project (RSS Feed testing, RSS Feed properties, menu default state, and menu hiding/showing) are all provided and are comprehensive enough to adequately test the functionality.
